@@ -7,4 +7,4 @@ canal/canal-server:v1.1.7
 elasticsearch:7.17.18
 kibana:7.17.18
 zookeeper
-kafka/kafka-server
+kafka
