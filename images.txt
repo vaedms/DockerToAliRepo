@@ -5,4 +5,4 @@ nacos/nacos-server:v2.4.3
 redis
 canal/canal-server:v1.1.7
 elasticsearch:7.17.18
-
+kibana:7.17.18
