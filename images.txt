@@ -9,3 +9,4 @@ kibana:7.17.18
 zookeeper:3.6
 bitnami/kafka:3.6.0
 dyrnq/canal-adapter
+funnyzak/canal-adapter
