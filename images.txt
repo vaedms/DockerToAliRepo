@@ -1,7 +1,7 @@
 redis:7.4.1
 nginx:1.27.2
 mysql:8.4.3
-canal/canal:v2.2
+canal/canal-server
 nacos/nacos-server:v2.4.3
 redis
 elasticsearch:7.17.18
