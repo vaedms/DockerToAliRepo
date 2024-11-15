@@ -8,4 +8,4 @@ elasticsearch:7.17.18
 kibana:7.17.18
 zookeeper:3.6
 bitnami/kafka:3.6.0
-slpcat/canal-adapter
+dyrnq/canal-adapter
