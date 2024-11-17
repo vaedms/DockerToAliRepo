@@ -7,6 +7,4 @@ elasticsearch:7.17.18
 kibana:7.17.18
 zookeeper:3.6
 bitnami/kafka:3.6.0
-funnyzak/canal-server
-funnyzak/canal-adapter
-funnyzak/canal-admin
+canal/canal-server:v1.1.6
