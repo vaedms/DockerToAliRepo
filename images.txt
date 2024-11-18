@@ -10,3 +10,5 @@ canal/canal-server:v1.1.6
 canal/canal-server
 bitnami/kafka:3.6.0
 debezium/connect:2.7.3.Final
+rocketmqinc/rocketmq
+pangliang/rocketmq-console-ng
