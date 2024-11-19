@@ -11,4 +11,4 @@ canal/canal-server
 bitnami/kafka:3.6.0
 debezium/connect:2.7.3.Final
 rocketmqinc/rocketmq
-pangliang/rocketmq-console-ng
+apacherocketmq/rocketmq-dashboard
