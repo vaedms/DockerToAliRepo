@@ -12,4 +12,4 @@ bitnami/kafka:3.6.0
 debezium/connect:2.7.3.Final
 rocketmqinc/rocketmq
 apacherocketmq/rocketmq-dashboard
-golang
+golang:1.24
