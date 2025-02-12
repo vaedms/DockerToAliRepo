@@ -1,17 +1,1 @@
-redis:7.4.1
-nginx:1.27.2
-mysql:8.4.3
-nacos/nacos-server:v2.4.3
-redis
-elasticsearch:7.17.18
-kibana:7.17.18
-zookeeper:3.6
-canal/canal-server:v1.1.6
-canal/canal-server
-bitnami/kafka:3.6.0
-debezium/connect:2.7.3.Final
-rocketmqinc/rocketmq
-apacherocketmq/rocketmq-dashboard
-golang:1.18
-rendora/chrome-headless
 rendora/rendora
