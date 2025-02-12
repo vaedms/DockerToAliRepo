@@ -13,3 +13,5 @@ debezium/connect:2.7.3.Final
 rocketmqinc/rocketmq
 apacherocketmq/rocketmq-dashboard
 golang:1.18
+rendora/chrome-headless
+rendora/rendora
