@@ -1,1 +1,1 @@
-ubuntu:25.04
+selenium/standalone-chrome
