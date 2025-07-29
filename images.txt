@@ -1,2 +1,2 @@
 redis
-xxl-job-admin:2.4.0
+xuxueli/xxl-job-admin:2.4.0
