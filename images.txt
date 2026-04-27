@@ -1,1 +1,1 @@
-zookeeper:3.6
+elasticsearch:8.19
