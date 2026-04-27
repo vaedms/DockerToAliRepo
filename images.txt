@@ -1,1 +1,1 @@
-mysql:8.4.9
+apache/kafka:3.9.2
