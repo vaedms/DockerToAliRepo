@@ -1,1 +1,1 @@
-linux
+alpine:3.20
